@@ -24,7 +24,7 @@ public class ejercicio2 {
         AUX = A*B;
         //division
         AUX = A/B;
-        
+    
 
     }
 }
