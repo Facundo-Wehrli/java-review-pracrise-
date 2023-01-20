@@ -8,6 +8,7 @@ public class ejercicio1 {
         Scanner obj = new Scanner(System.in);
         // utilizaremos la estructura repetititiva do while
         int num1, num2;
+        //
         do {
             System.out.println("primer número");
             num1 = obj.nextInt();
