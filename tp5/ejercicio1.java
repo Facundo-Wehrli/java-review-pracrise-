@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // 1. Realizar un programa en Java que lea dos números pasados por teclado en un proceso
 // repetitivo. Este proceso terminará cuando los números leídos sean iguales.
-public class ejercicio {
+public class ejercicio1 {
 
     public static void main(String[] args) {
         Scanner obj = new Scanner(System.in);
